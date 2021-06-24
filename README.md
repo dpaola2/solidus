@@ -82,7 +82,7 @@ You can try the live Solidus demo [here.](http://demo.solidus.io/) The admin sec
 
 You can also try out Solidus with one-click on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/solidusio/solidus-example-app)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dpaola2/solidus-example-app)
 
 Additionally, you can use Docker to run a demo on your local machine. Run the
 following command to download the image and run it at
